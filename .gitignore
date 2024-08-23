@@ -1,7 +1,5 @@
 node_modules
 
-wrangler.toml
-
 .env*
 .flaskenv*
 !.env.project

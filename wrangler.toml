@@ -1,0 +1,4 @@
+name = "carsolve-clearcar-inbound"
+main = "src/worker.ts"
+logpush = true
+compatibility_date = "2024-03-08"

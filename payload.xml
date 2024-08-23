@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?adf version="1.0"?>
+<adf>
+	<prospect status="new">
+		<id sequence="1" source="ClearCar">
+			669386
+		</id>
+		<requestdate>
+			2024-04-29T12:28:13+0000
+		</requestdate>
+		<vehicle interest="sell" status="used">
+			<id>
+				669386
+			</id>
+			<year>
+				2024
+			</year>
+			<make>
+				Maserati
+			</make>
+			<model>
+				MC20
+			</model>
+			<vin>
+			</vin>
+			<trim>
+				Base
+			</trim>
+			<odometer units="mi">
+				8665
+			</odometer>
+			<price type="offer" currency="USD">
+				0
+			</price>
+			<colorcombination>
+				<exteriorcolor>
+					gray
+				</exteriorcolor>
+			</colorcombination>
+			<comments>
+				<![CDATA[
+				The following is information about the customer's trade-in:  Year: 2024 Make: Maserati Model: MC20 VIN:  Odometer: 8665 VDP link: https://drivably.acvauctions.com/leads/669386 Market Report link: https://app.acvauctions.com/market-report?tab=make-model&year=2024&make=Maserati&model=MC20&trim=Base&style=2D Coupe&odometer=8665&zip=56789 Vehicle Comments:
+				Buying new car (yes/no/not sure): no
+				Accidents: none
+				Condition: great
+				Optional Equipment: Sunroof
+				Title Present: No
+				Title Issues: No
+				Frame Damage: No
+				Rust Damage: No
+				Body Damage: No
+				Engine Issues: No
+				Interior Issues: No
+				Mechanical Issues: No
+				Warning Lights: No
+				Modifications: No
+				Tire Issues: No
+				Tire Tread: Good
+				Transmission: Manual
+				History:
+				none
+				
+				Notes:
+				]]>
+			</comments>
+		</vehicle>
+		<customer>
+			<contact>
+				<name type="individual" part="first">
+					Oksana
+				</name>
+				<name type="individual" part="last">
+					DevcomTest9
+				</name>
+				<phone>
+					10360896988
+				</phone>
+				<email>
+					oksana.bozhenko+13004dev@devcom.com
+				</email>
+				<address type="home">
+					<postalcode>
+						56789
+					</postalcode>
+					<country>
+					</country>
+				</address>
+			</contact>
+			<comments>
+				<![CDATA[
+				Oksana DevcomTest9 | 0 | 2024 Maserati MC20 Base | 56789 | 10360896988 |  Time: 2024-04-29T12:28:13+0000 |
+				Buying new car (yes/no/not sure): no
+				Accidents: none
+				Condition: great
+				Optional Equipment: Sunroof
+				Title Present: No
+				Title Issues: No
+				Frame Damage: No
+				Rust Damage: No
+				Body Damage: No
+				Engine Issues: No
+				Interior Issues: No
+				Mechanical Issues: No
+				Warning Lights: No
+				Modifications: No
+				Tire Issues: No
+				Tire Tread: Good
+				Transmission: Manual
+				History:
+				none
+				
+				Notes:
+				VehicleDetails: https://drivably.acvauctions.com/leads/669386 SourceLink: https://carsolve.com/instant-auction-estimate/ VehicleOfInterest: null ACV Market Report link: https://app.acvauctions.com/market-report?tab=make-model&year=2024&make=Maserati&model=MC20&trim=Base&style=2D Coupe&odometer=8665&zip=56789 Carfax link: https://auth.carfax.com/u/login
+				]]>
+			</comments>
+		</customer>
+		<vendor>
+			<vendorname>
+				CarSolve
+			</vendorname>
+		</vendor>
+		<provider>
+			<name part="full">
+				ClearCar
+			</name>
+			<leadtype>
+				Campaign
+			</leadtype>
+		</provider>
+	</prospect>
+</adf>

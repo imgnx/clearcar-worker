@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?adf version="1.0"?>
+<adf>
+	<prospect status="new">
+		<id sequence="1" source="ClearCar">
+			514742
+		</id>
+		<requestdate>
+			2023-10-26T17:41:42+0000
+		</requestdate>
+		<vehicle interest="sell" status="used">
+			<id>
+				514742
+			</id>
+			<year>
+				2023
+			</year>
+			<make>
+				Jeep
+			</make>
+			<model>
+				Grand Cherokee
+			</model>
+			<vin>
+				1C4RJGBG5PC502857
+			</vin>
+			<trim>
+				Limited
+			</trim>
+			<odometer units="mi">
+				18220
+			</odometer>
+			<price type="offer" currency="USD">
+				33300
+			</price>
+			<colorcombination>
+				<exteriorcolor>
+					black
+				</exteriorcolor>
+			</colorcombination>
+			<comments>
+				<![CDATA[
+				The following is information about the customer's trade-in:  Year: 2023 Make: Jeep Model: Grand Cherokee VIN: 1C4RJGBG5PC502857 Odometer: 18220 VDP link: https://drivably.acvauctions.com/leads/514742 Market Report link: https://app.acvauctions.com/market-report?tab=vin&vin=1C4RJGBG5PC502857&odometer=18220&zip=76227 Vehicle Comments:
+				Accidents: none
+				Condition: great
+				Title Present: No
+				Title Issues: No
+				Frame Damage: No
+				Rust Damage: No
+				Body Damage: No
+				Engine Issues: No
+				Interior Issues: No
+				Mechanical Issues: No
+				Warning Lights: No
+				Modifications: No
+				Tire Issues: No
+				Tire Tread: Good
+				Transmission: Auto
+				History:
+				none
+				
+				Notes:
+				Red: 29304
+				Yellow: 31968
+				Green: 35298
+				]]>
+			</comments>
+		</vehicle>
+		<customer>
+			<contact>
+				<name part="first">
+					Softwire
+				</name>
+				<name part="last">
+					Too
+				</name>
+				<phone>
+					17541109922
+				</phone>
+				<email>
+				</email>
+				<address type="home">
+					<postalcode>
+						76227
+					</postalcode>
+					<country>
+					</country>
+				</address>
+			</contact>
+			<comments>
+				<![CDATA[
+				Softwire Too | 33300 | 2023 Jeep Grand Cherokee Limited | 76227 | 17541109922 |  Time: 2023-10-26T17:41:42+0000 |
+				Accidents: none
+				Condition: great
+				Title Present: No
+				Title Issues: No
+				Frame Damage: No
+				Rust Damage: No
+				Body Damage: No
+				Engine Issues: No
+				Interior Issues: No
+				Mechanical Issues: No
+				Warning Lights: No
+				Modifications: No
+				Tire Issues: No
+				Tire Tread: Good
+				Transmission: Auto
+				History:
+				none
+				
+				Notes:
+				Red: 29304
+				Yellow: 31968
+				Green: 35298
+				VehicleDetails: https://drivably.acvauctions.com/leads/514742 SourceLink: https://carsolve.com/instant-quote/ VehicleOfInterest: {} ACV Market Report link: https://app.acvauctions.com/market-report?tab=vin&vin=1C4RJGBG5PC502857&odometer=18220&zip=76227 Carfax link: https://auth.carfax.com/u/login
+				]]>
+			</comments>
+		</customer>
+		<vendor>
+			<vendorname>
+				CarSolve
+			</vendorname>
+		</vendor>
+		<provider>
+			<name part="full">
+				ClearCar
+			</name>
+			<leadtype>
+				Internet
+			</leadtype>
+		</provider>
+	</prospect>
+</adf>

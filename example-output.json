@@ -1,0 +1,34 @@
+{
+  "id": "514742",
+  "requestDate": "2023-10-26T17:41:42+0000",
+  "vehicle": {
+    "id": "514742",
+    "interest": "sell",
+    "status": "used",
+    "year": "2023",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "vin": "1C4RJGBG5PC502857",
+    "trim": "Limited",
+    "odometer": { "mileage": "18220", "isInMiles": true },
+    "price": {
+      "value": "33300",
+      "isInUsd": true,
+      "type": "offer"
+    },
+    "colorCombination": { "exteriorcolor": "black" },
+    "comments": " The following is information about the customer's trade-in:  Year: 2023 Make: Jeep Model: Grand Cherokee VIN: 1C4RJGBG5PC502857 Odometer: 18220 VDP link: https://drivably.acvauctions.com/leads/514742 Market Report link: https://app.acvauctions.com/market-report?tab=vin&vin=1C4RJGBG5PC502857&odometer=18220&zip=76227 Vehicle Comments:   Accidents: none  Condition: great  Title Present: No  Title Issues: No  Frame Damage: No  Rust Damage: No  Body Damage: No  Engine Issues: No  Interior Issues: No  Mechanical Issues: No  Warning Lights: No  Modifications: No  Tire Issues: No  Tire Tread: Good  Transmission: Auto  History:  none   Notes:    Red: 29304  Yellow: 31968  Green: 35298  "
+  },
+  "contact": {
+    "firstName": "Softwire",
+    "lastName": "Too",
+    "phone": "17541109922",
+    "email": "",
+    "address": {
+      "type": "home",
+      "postalcode": "76227",
+      "country": ""
+    },
+    "comments": " Softwire Too | 33300 | 2023 Jeep Grand Cherokee Limited | 76227 | 17541109922 |  Time: 2023-10-26T17:41:42+0000 |   Accidents: none  Condition: great  Title Present: No  Title Issues: No  Frame Damage: No  Rust Damage: No  Body Damage: No  Engine Issues: No  Interior Issues: No  Mechanical Issues: No  Warning Lights: No  Modifications: No  Tire Issues: No  Tire Tread: Good  Transmission: Auto  History:  none   Notes:    Red: 29304  Yellow: 31968  Green: 35298  VehicleDetails: https://drivably.acvauctions.com/leads/514742 SourceLink: https://carsolve.com/instant-quote/ VehicleOfInterest: {} ACV Market Report link: https://app.acvauctions.com/market-report?tab=vin&vin=1C4RJGBG5PC502857&odometer=18220&zip=76227 Carfax link: https://auth.carfax.com/u/login "
+  }
+}

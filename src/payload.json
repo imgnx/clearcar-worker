@@ -1,0 +1,28 @@
+{
+  "id": "669450",
+  "requestDate": "2024-04-29T13:15:04+0000",
+  "vehicle": {
+    "id": "669450",
+    "interest": "sell",
+    "status": "used",
+    "year": "2003",
+    "make": "Saturn",
+    "model": "Ion",
+    "vin": "1G8AZ52F23Z114214",
+    "trim": "2",
+    "odometer": { "mileage": "44444", "isInMiles": true },
+    "price": { "value": "0", "isInUsd": true, "type": "offer" },
+    "colorCombination": { "exteriorcolor": "tan" },
+    "comments": " The following is information about the customer's trade-in:  Year: 2003 Make: Saturn Model: Ion VIN: 1G8AZ52F23Z114214 Odometer: 44444 VDP link: https://drivably.acvauctions.com/leads/669450 Market Report link: https://app.acvauctions.com/market-report?tab=vin&vin=1G8AZ52F23Z114214&odometer=44444&zip=44556 Vehicle Comments:   Buying new car (yes/no/not sure): no  Accidents: none  Condition: great  Optional Equipment: Sunroof  Title Present: No  Title Issues: No  Frame Damage: No  Rust Damage: No  Body Damage: No  Engine Issues: No  Interior Issues: No  Mechanical Issues: No  Warning Lights: No  Modifications: No  Tire Issues: No  Tire Tread: Good  Transmission: Manual  History:  none   Notes:    "
+  },
+  "contact": {
+    "firstName": "Oksana8",
+    "lastName": "DevcomTest2",
+    "phone": "10986547344",
+    "email": "oksana.bozhenko+349dev@devcom.com",
+    "address": { "type": "home", "postalcode": "44556", "country": "" },
+    "comments": " Oksana8 DevcomTest2 | 0 | 2003 Saturn Ion 2 | 44556 | 10986547344 |  Time: 2024-04-29T13:15:04+0000 |   Buying new car (yes/no/not sure): no  Accidents: none  Condition: great  Optional Equipment: Sunroof  Title Present: No  Title Issues: No  Frame Damage: No  Rust Damage: No  Body Damage: No  Engine Issues: No  Interior Issues: No  Mechanical Issues: No  Warning Lights: No  Modifications: No  Tire Issues: No  Tire Tread: Good  Transmission: Manual  History:  none   Notes:    VehicleDetails: https://drivably.acvauctions.com/leads/669450 SourceLink: https://carsolve.com/instant-auction-estimate/ VehicleOfInterest: null ACV Market Report link: https://app.acvauctions.com/market-report?tab=vin&vin=1G8AZ52F23Z114214&odometer=44444&zip=44556 Carfax link: https://auth.carfax.com/u/login ",
+    "range": {}
+  },
+  "source": "https://carsolve.com/instant-auction-estimate/"
+}
